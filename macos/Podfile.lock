@@ -488,7 +488,7 @@ SPEC CHECKSUMS:
   React-jsi: 760affd655f33e7ba1d241ba3bc9d52cb7a77995
   React-jsiexecutor: e6fabffa8a04b7c6a6c109ee2ba04296c83b1e62
   React-jsinspector: 0abcd8b7f0a3729aac619e882bfc4cc2fe21b3d0
-  react-native-safe-area-context: 315e1ae72bc1b54a284bf48c026386b9435e0188
+  react-native-safe-area-context: 99b24a0c5acd0d5dcac2b1a7f18c49ea317be99a
   React-perflogger: f89af03aacb08a0743a674dc399d72f56a30c7dd
   React-RCTActionSheet: 06978e883c6bcc34b8b593f5592cc52c369597f3
   React-RCTAnimation: 6da3c1909bd89bdb6c0501d69e8956671805ead5
