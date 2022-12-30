@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react';
 import {
   StyleSheet,
   Text,
-  ActivityIndicator,
   useColorScheme,
   FlatList,
   View,
@@ -153,7 +152,7 @@ const LineList = ({navigation}: LineListProps) => {
   const getStops = async () => {
     fetch('http://salamancadetransportes.com/siri?city=salamanca')
       .then(res => res.json())
-      .then(json => {
+      .then((json: Array<Line>) => {
         setData(json);
         setLoading(false);
       })
@@ -168,21 +167,20 @@ const LineList = ({navigation}: LineListProps) => {
   }, []);
 
   return (
-    <>
-      {isLoading ? (
-        <ActivityIndicator />
-      ) : (
-        <FlatList
-          data={data}
-          keyExtractor={({id, name}) => `${id}-${name}`}
-          renderItem={({item}) => (
-            <LineCard
-              line={item}
-              onPress={() => navigation.navigate('Stops', {line: item})}
-            />
-          )}
+    <FlatList
+      data={data}
+      keyExtractor={({id, name}) => `${id}-${name}`}
+      refreshing={isLoading}
+      onRefresh={() => {
+        setLoading(true);
+        getStops();
+      }}
+      renderItem={({item}) => (
+        <LineCard
+          line={item}
+          onPress={() => navigation.navigate('Stops', {line: item})}
         />
       )}
-    </>
+    />
   );
 };
