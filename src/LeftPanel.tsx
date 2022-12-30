@@ -8,12 +8,14 @@ import {
   View,
   Pressable,
   PressableProps,
-  ButtonProps,
-  Button,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 
-import {NavigationContainer} from '@react-navigation/native';
+import {
+  DarkTheme,
+  DefaultTheme,
+  NavigationContainer,
+} from '@react-navigation/native';
 import {createStackNavigator, StackScreenProps} from '@react-navigation/stack';
 import {Line, Stop} from './types';
 
@@ -27,13 +29,11 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
   const isDark = useColorScheme() === 'dark';
 
   return (
-    <NavigationContainer>
+    <NavigationContainer theme={isDark ? DarkTheme : DefaultTheme}>
       <LeftSideNav.Navigator
         screenOptions={{
-          headerStyle: {
-            backgroundColor: isDark ? Colors.dark : Colors.light,
-          },
-          headerTintColor: isDark ? Colors.light : Colors.dark,
+          animationEnabled: true,
+          presentation: 'card',
         }}>
         <LeftSideNav.Screen name="Lines" component={LineList} options={{}} />
         <LeftSideNav.Screen name="Stops">
