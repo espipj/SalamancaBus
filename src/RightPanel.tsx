@@ -10,7 +10,7 @@ import {
   Button,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import {Bus, Stop} from './LeftPanel';
+import {Bus, Stop} from './types';
 
 const RightPanel = ({stop}: {stop?: Stop}) => {
   const isDark = useColorScheme() === 'dark';
