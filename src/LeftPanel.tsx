@@ -8,27 +8,43 @@ import {
   View,
   Pressable,
   PressableProps,
-  ButtonProps,
-  Button,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 
-export interface Line {
-  id: string;
-  name: string;
-  stops: Stop[];
-}
+import {
+  DarkTheme,
+  DefaultTheme,
+  NavigationContainer,
+} from '@react-navigation/native';
+import {createStackNavigator, StackScreenProps} from '@react-navigation/stack';
+import {Line, Stop} from './types';
 
-export interface Stop {
-  id: string;
-  name: string;
-}
+export type IRootStackParams = {
+  Lines: undefined;
+  Stops: {line: Line};
+};
 
-export interface Bus {
-  line: string;
-  direction: string;
-  time: Date;
-}
+let LeftSideNav = createStackNavigator<IRootStackParams>();
+const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
+  const isDark = useColorScheme() === 'dark';
+
+  return (
+    <NavigationContainer theme={isDark ? DarkTheme : DefaultTheme}>
+      <LeftSideNav.Navigator
+        screenOptions={{
+          animationEnabled: true,
+          presentation: 'card',
+        }}>
+        <LeftSideNav.Screen name="Lines" component={LineList} options={{}} />
+        <LeftSideNav.Screen name="Stops">
+          {props => <StopList {...props} onPress={onPress} />}
+        </LeftSideNav.Screen>
+      </LeftSideNav.Navigator>
+    </NavigationContainer>
+  );
+};
+
+export default LeftPanel;
 
 const LineCard = ({
   line,
@@ -117,10 +133,22 @@ const StopCard = ({
   );
 };
 
-const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
+type StopsListProps = StackScreenProps<IRootStackParams, 'Stops'> & {
+  onPress: PressableProps.onPress;
+};
+const StopList = ({route, onPress}: StopsListProps) => {
+  const {line} = route.params;
+  return (
+    <FlatList
+      data={line.stops.slice(0, line.stops.length / 2)}
+      keyExtractor={({id, name}) => `${id}-${name}`}
+      renderItem={({item}) => <StopCard stop={item} onPress={onPress} />}
+    />
+  );
+};
+type LineListProps = StackScreenProps<IRootStackParams, 'Lines'>;
+const LineList = ({navigation}: LineListProps) => {
   const [isLoading, setLoading] = useState(true);
-  const [screen, setScreen] = useState(0);
-  const [line, setLine] = useState<Line | null>(null);
   const [data, setData] = useState<Line[]>([]);
   const getStops = async () => {
     fetch('http://salamancadetransportes.com/siri?city=salamanca')
@@ -139,29 +167,8 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
     getStops();
   }, []);
 
-  if (screen === 1 && line) {
-    return (
-      <>
-        <TopBar
-          title="Paradas"
-          actionLeft={{name: 'Atrás', onPress: () => setScreen(0)}}
-        />
-        {isLoading ? (
-          <ActivityIndicator />
-        ) : (
-          <FlatList
-            data={line.stops.slice(0, line.stops.length / 2)}
-            keyExtractor={({id, name}) => `${id}-${name}`}
-            renderItem={({item}) => <StopCard stop={item} onPress={onPress} />}
-          />
-        )}
-      </>
-    );
-  }
-
   return (
     <>
-      <TopBar title="Lineas" />
       {isLoading ? (
         <ActivityIndicator />
       ) : (
@@ -171,10 +178,7 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
           renderItem={({item}) => (
             <LineCard
               line={item}
-              onPress={() => {
-                setScreen(1);
-                setLine(item);
-              }}
+              onPress={() => navigation.navigate('Stops', {line: item})}
             />
           )}
         />
@@ -182,32 +186,3 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
     </>
   );
 };
-
-const TopBar = ({
-  title,
-  actionLeft,
-}: {
-  title: string;
-  actionLeft?: {name: string; onPress: ButtonProps['onPress']};
-}) => {
-  const styles = StyleSheet.create({
-    main: {
-      marginHorizontal: 6,
-      marginVertical: 12,
-      flexDirection: 'row',
-    },
-    text: {
-      fontSize: 24,
-    },
-  });
-  return (
-    <View style={styles.main}>
-      {actionLeft && (
-        <Button title={actionLeft.name} onPress={actionLeft.onPress} />
-      )}
-      <Text style={styles.text}>{title}</Text>
-    </View>
-  );
-};
-
-export default LeftPanel;
