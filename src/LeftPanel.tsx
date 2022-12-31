@@ -17,6 +17,8 @@ import {
   NavigationContainer,
 } from '@react-navigation/native';
 import {createStackNavigator, StackScreenProps} from '@react-navigation/stack';
+import {useHeaderHeight} from '@react-navigation/elements';
+import {BlurView, VibrancyView} from '@react-native-community/blur';
 import {Bus, Line, Stop} from './types';
 import {BusList} from './RightPanel';
 
@@ -36,6 +38,17 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
         screenOptions={{
           animationEnabled: true,
           presentation: 'card',
+          headerTransparent: true,
+          headerBackground: () => (
+            <VibrancyView
+              blurType="extraDark"
+              reducedTransparencyFallbackColor="white"
+              blurAmount={10}
+              style={{
+                flex: 1,
+              }}
+            />
+          ),
         }}>
         <LeftSideNav.Screen name="Lines" component={LineList} options={{}} />
         <LeftSideNav.Screen name="Stops">
