@@ -7,6 +7,7 @@ import {
   View,
   Pressable,
   PressableProps,
+  Platform,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 
@@ -16,11 +17,13 @@ import {
   NavigationContainer,
 } from '@react-navigation/native';
 import {createStackNavigator, StackScreenProps} from '@react-navigation/stack';
-import {Line, Stop} from './types';
+import {Bus, Line, Stop} from './types';
+import {BusList} from './RightPanel';
 
 export type IRootStackParams = {
   Lines: undefined;
   Stops: {line: Line};
+  Buses: {stop: Stop};
 };
 
 let LeftSideNav = createStackNavigator<IRootStackParams>();
@@ -36,8 +39,21 @@ const LeftPanel = ({onPress}: {onPress: PressableProps.onPress}) => {
         }}>
         <LeftSideNav.Screen name="Lines" component={LineList} options={{}} />
         <LeftSideNav.Screen name="Stops">
-          {props => <StopList {...props} onPress={onPress} />}
+          {props => (
+            <StopList
+              {...props}
+              onPress={stop => {
+                console.log(stop);
+                onPress(stop);
+                if (['android', 'ios'].includes(Platform.OS))
+                  props.navigation.navigate('Buses', {stop});
+              }}
+            />
+          )}
         </LeftSideNav.Screen>
+        {['android', 'ios'].includes(Platform.OS) ? (
+          <LeftSideNav.Screen name="Buses" component={BusList} />
+        ) : null}
       </LeftSideNav.Navigator>
     </NavigationContainer>
   );

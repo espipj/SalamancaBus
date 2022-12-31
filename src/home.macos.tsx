@@ -25,11 +25,18 @@ const Home = () => {
   });
 
   return (
-    <LeftPanel
-      onPress={(stopP: Stop) => {
-        setStop(stopP);
-      }}
-    />
+    <View style={styles.mainContainer}>
+      <View style={styles.leftPanel}>
+        <LeftPanel
+          onPress={(stopP: Stop) => {
+            setStop(stopP);
+          }}
+        />
+      </View>
+      <View style={styles.rightPanel}>
+        <RightPanel stop={stop} />
+      </View>
+    </View>
   );
 };
 
