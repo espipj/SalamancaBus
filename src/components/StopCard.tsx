@@ -31,6 +31,7 @@ const StopCard = ({
     },
     lineName: {
       flex: 1,
+      color: isDark ? Colors.lighter : Colors.darker,
     },
   });
   return (
