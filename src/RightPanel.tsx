@@ -1,3 +1,4 @@
+import {StackScreenProps} from '@react-navigation/stack';
 import React, {useState, useEffect} from 'react';
 import {
   StyleSheet,
@@ -10,13 +11,13 @@ import {
   Button,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import {Bus, Stop} from './LeftPanel';
+import {IRootStackParams} from './LeftPanel';
+import {Bus, Stop} from './types';
 
 const RightPanel = ({stop}: {stop?: Stop}) => {
   const isDark = useColorScheme() === 'dark';
   const [buses, setBuses] = useState<Bus[]>([]);
   const [isLoading, setLoading] = useState(true);
-
   const getBuses = async () => {
     console.log(Date());
     if (!stop?.id) return;
@@ -79,6 +80,48 @@ const RightPanel = ({stop}: {stop?: Stop}) => {
         <Text>No selected stop</Text>
       )}
     </View>
+  );
+};
+type StopsListProps = StackScreenProps<IRootStackParams, 'Buses'>;
+export const BusList = ({route}: StopsListProps) => {
+  const {stop} = route.params;
+  if (!stop) return <Text>No selected stop</Text>;
+
+  const [buses, setBuses] = useState<Bus[]>([]);
+  const [isLoading, setLoading] = useState(true);
+
+  const getBuses = async () => {
+    console.log(Date());
+    if (!stop?.id) return;
+    fetch(
+      `http://salamancadetransportes.com/siri?city=salamanca&stop=${stop.id}`,
+    )
+      .then(res => {
+        return res.json();
+      })
+      .then((json: Array<Bus>) => {
+        setLoading(false);
+        setBuses(json);
+      })
+      .catch(e => {
+        console.log(e);
+        setLoading(false);
+      });
+  };
+
+  useEffect(() => {
+    getBuses();
+  }, [stop]);
+
+  if (!buses.length) return <Text>No buses incoming</Text>;
+  return (
+    <FlatList
+      data={buses}
+      onRefresh={getBuses}
+      refreshing={isLoading}
+      keyExtractor={({line, direction, time}) => `${line},${direction},${time}`}
+      renderItem={({item}) => <BusCard bus={item} />}
+    />
   );
 };
 

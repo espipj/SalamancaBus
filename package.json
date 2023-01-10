@@ -11,9 +11,16 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.1.1",
+    "@react-navigation/stack": "^6.3.10",
+    "@turf/distance": "^6.5.0",
     "react": "17.0.1",
-    "react-native": "0.64.1",
-    "react-native-macos": "^0.64.0-0"
+    "react-native": "^0.64.1",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-macos": "^0.64.0-0",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.18.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

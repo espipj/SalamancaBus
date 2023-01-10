@@ -1,0 +1,7502 @@
+[
+  {
+    "type": "node",
+    "id": 495766567,
+    "lat": 40.9703817,
+    "lon": -5.6744214,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Filiberto Villalobos, 76",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "128",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766571,
+    "lat": 40.9707924,
+    "lon": -5.6756233,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-16",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Peña de Francia, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "180",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766574,
+    "lat": 40.9690082,
+    "lon": -5.6753489,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-14",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Maristas, frente 48",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "99",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766576,
+    "lat": 40.9683848,
+    "lon": -5.6721872,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Filiberto Villalobos, 46",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "127",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766579,
+    "lat": 40.9714952,
+    "lon": -5.670954,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-07",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Villamayor, 73",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "257",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766587,
+    "lat": 40.9658936,
+    "lon": -5.6714121,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Maristas, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "100",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766591,
+    "lat": 40.9634568,
+    "lon": -5.6735488,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de San Vicente, 106",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "36",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766593,
+    "lat": 40.9642356,
+    "lon": -5.6726816,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de San Vicente, 101",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "39",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766595,
+    "lat": 40.9666339,
+    "lon": -5.6702212,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-06",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Filiberto Villalobos, 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "126",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766598,
+    "lat": 40.9693854,
+    "lon": -5.6691901,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766601,
+    "lat": 40.9675128,
+    "lon": -5.6686192,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-01",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de Carmelitas, 94",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "35",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766605,
+    "lat": 40.9671161,
+    "lon": -5.6687327,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de Carmelitas, 85",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "40",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766607,
+    "lat": 40.9704164,
+    "lon": -5.663815,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-01",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Italia, 4",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "63",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766611,
+    "lat": 40.9729808,
+    "lon": -5.6700131,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-07",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 182",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "179",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766614,
+    "lat": 40.9728644,
+    "lon": -5.6699676,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-07",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 187",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "165",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766616,
+    "lat": 40.9735169,
+    "lon": -5.6702896,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "763211584586708",
+      "name": "Carretera Ledesma,12",
+      "operator": "Salamanca de transportes SA",
+      "pole": "no",
+      "public_transport": "platform",
+      "ref": "62",
+      "shelter": "no",
+      "survey:date": "2018-08-04",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766619,
+    "lat": 40.9725964,
+    "lon": -5.6811164,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Glorieta Ramiro II, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "294",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766622,
+    "lat": 40.9675833,
+    "lon": -5.659203,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza del Empresario, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "4",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766626,
+    "lat": 40.9672065,
+    "lon": -5.6578881,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de Canalejas, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "224",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766628,
+    "lat": 40.9515554,
+    "lon": -5.6612277,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Joaquín Rodrigo, Frente 36",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "89",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766631,
+    "lat": 40.9582493,
+    "lon": -5.6649867,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "332033618348764",
+      "name": "Avenida de los Reyes de España, 23",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "26",
+      "shelter": "yes",
+      "survey:date": "2019-04-07",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766633,
+    "lat": 40.9591459,
+    "lon": -5.6656833,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo Rector Esperabé, 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "125",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766637,
+    "lat": 40.9589605,
+    "lon": -5.6654696,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2914939202127526",
+      "name": "Paseo del Rector Esperabé, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "102",
+      "shelter": "yes",
+      "survey:date": "2019-06-08",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766639,
+    "lat": 40.9575667,
+    "lon": -5.665519,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "570733217230745",
+      "name": "Avenida de los Reyes de España, 32",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "6",
+      "shelter": "yes",
+      "survey:date": "2017-06-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766642,
+    "lat": 40.9607029,
+    "lon": -5.6735443,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Desengaño, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "38",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766644,
+    "lat": 40.9606778,
+    "lon": -5.6741409,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Desengaño, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "37",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766646,
+    "lat": 40.9723775,
+    "lon": -5.6766215,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-17",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Filiberto Villalobos, frente 129",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "98",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766648,
+    "lat": 40.9724118,
+    "lon": -5.6635288,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "241147847769196",
+      "name": "Avenida de Portugal, 115",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "192",
+      "shelter": "no",
+      "survey:date": "2019-05-17",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495766650,
+    "lat": 40.9726915,
+    "lon": -5.6638994,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "992173568248448",
+      "name": "Avenida de Portugal, 126",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "201",
+      "shelter": "no",
+      "survey:date": "2018-08-04",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495767383,
+    "lat": 40.9685028,
+    "lon": -5.6579794,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza España, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "50",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495767384,
+    "lat": 40.9513413,
+    "lon": -5.6614364,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Joaquín Rodrigo, 38",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "77",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495767386,
+    "lat": 40.9493893,
+    "lon": -5.6590985,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Joaquín Rodrigo, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "208",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495767387,
+    "lat": 40.9500698,
+    "lon": -5.6600094,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Joaquín Rodrigo, 49",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "88",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 495767389,
+    "lat": 40.950018,
+    "lon": -5.6603107,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Joaquín Rodrigo, 48",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "147",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 496384511,
+    "lat": 40.968702,
+    "lon": -5.6583482,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza España, 7",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "3",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 496384513,
+    "lat": 40.9638399,
+    "lon": -5.664088,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "295574718809087",
+      "name": "Plaza del Poeta Iglesias,17",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "5",
+      "shelter": "yes",
+      "survey:date": "2017-07-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504266621,
+    "lat": 40.9781158,
+    "lon": -5.6761348,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Carretera Ledesma, 101",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "44",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504266625,
+    "lat": 40.9780777,
+    "lon": -5.6759925,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "499935984771096",
+      "name": "Carretera Ledesma, 140",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "68",
+      "shelter": "no",
+      "survey:date": "2019-02-22",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504266627,
+    "lat": 40.9760751,
+    "lon": -5.6750043,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "560408368269466",
+      "name": "Carretera Ledesma, 63",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "45",
+      "shelter": "yes",
+      "survey:date": "2017-02-20",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504266630,
+    "lat": 40.9744646,
+    "lon": -5.672535,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Carretera Ledesma, Frente 52",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "46",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504266635,
+    "lat": 40.9698345,
+    "lon": -5.6620397,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "plaza Gabriel y Galán",
+      "ref": "34",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 506323137,
+    "lat": 40.9727938,
+    "lon": -5.6725768,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-17",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Peña de Francia, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "261",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531595,
+    "lat": 40.9697822,
+    "lon": -5.6627318,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Mirat, 43",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "41",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531599,
+    "lat": 40.97253,
+    "lon": -5.6483966,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "realtime",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Estación, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "32",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531602,
+    "lat": 40.9743855,
+    "lon": -5.65554,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "139872428137327",
+      "name": "Avenida Alfonso IX de León, 4",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "168",
+      "shelter": "yes",
+      "survey:date": "2016-09-27",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531605,
+    "lat": 40.9749189,
+    "lon": -5.6563853,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2853750041540561",
+      "name": "Avenida Alfonso IX de León, frente 8",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "176",
+      "shelter": "yes",
+      "survey:date": "2016-11-10",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531607,
+    "lat": 40.9755085,
+    "lon": -5.6595746,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza de Madrid, 5",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "167",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531609,
+    "lat": 40.9770549,
+    "lon": -5.6530885,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "147984350627298",
+      "name": "Avenida de los Cedros, 3",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "71",
+      "shelter": "yes",
+      "survey:date": "2018-08-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531610,
+    "lat": 40.9746851,
+    "lon": -5.6507987,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cedros, 40",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "97",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531612,
+    "lat": 40.9725532,
+    "lon": -5.6487933,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "realtime",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "371975324088721",
+      "name": "Paseo de la Estación, 117",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "270",
+      "shelter": "yes",
+      "survey:date": "2019-03-03",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531614,
+    "lat": 40.9650633,
+    "lon": -5.6535224,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2978130915764348",
+      "name": "Paseo del Rollo, 5",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "123",
+      "shelter": "no",
+      "survey:date": "2016-10-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531615,
+    "lat": 40.9647694,
+    "lon": -5.6556116,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "262140395659989",
+      "name": "Paseo de San Antonio, 21",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "124",
+      "shelter": "yes",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531617,
+    "lat": 40.964634,
+    "lon": -5.6556855,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de San Antonio, 40",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "104",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531619,
+    "lat": 40.9728658,
+    "lon": -5.6666729,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 151",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "166",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531620,
+    "lat": 40.9729745,
+    "lon": -5.665923,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 152",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "178",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531623,
+    "lat": 40.9792333,
+    "lon": -5.6639214,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Glorieta Ruta de la Plata, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "130",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531626,
+    "lat": 40.961185,
+    "lon": -5.6426547,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Aldehuela de los Guzmanes, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "212",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531630,
+    "lat": 40.9497019,
+    "lon": -5.6639075,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Carlos I, 105",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "83",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 513531633,
+    "lat": 40.951374,
+    "lon": -5.6492575,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 522039010,
+    "lat": 40.976018,
+    "lon": -5.6594134,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "286584419783447",
+      "name": "Plaza de Madrid, 10",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "177",
+      "shelter": "no",
+      "survey:date": "2017-03-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065509,
+    "lat": 40.9736095,
+    "lon": -5.6569181,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avda, María Auxiliadora, 71-85",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "73",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065511,
+    "lat": 40.9749774,
+    "lon": -5.6628687,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Doctor Torres Villarroel, 63",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "131",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065514,
+    "lat": 40.9564123,
+    "lon": -5.6718538,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Progreso, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "150",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065516,
+    "lat": 40.9485186,
+    "lon": -5.6597772,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Maestro Serrano, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "78",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065519,
+    "lat": 40.948511,
+    "lon": -5.65961,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Maestro Serrano, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "87",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065521,
+    "lat": 40.9497173,
+    "lon": -5.6682637,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Carlos I, 29 (Plaza de La Vega)",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "148",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065525,
+    "lat": 40.9468118,
+    "lon": -5.6719355,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo Cuatro Calzadas, frente 60",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "197",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065526,
+    "lat": 40.9513367,
+    "lon": -5.6703085,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "3738908586235190",
+      "name": "Avenida de Saavedra y Fajardo, 18",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "144",
+      "shelter": "no",
+      "survey:date": "2017-06-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 527065527,
+    "lat": 40.9516415,
+    "lon": -5.6699483,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Saavedra y Fajardo, 27",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "149",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529085473,
+    "lat": 40.9550238,
+    "lon": -5.6870597,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "168646508487386",
+      "name": "Avenida de Lasalle, fren. 143",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "11",
+      "shelter": "yes",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529085474,
+    "lat": 40.9550389,
+    "lon": -5.6839285,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "177556137580854",
+      "name": "Avenida de Lasalle, fren. 95",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "10",
+      "shelter": "yes",
+      "survey:date": "2019-02-12",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529085475,
+    "lat": 40.954878,
+    "lon": -5.6836638,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "364554151641464",
+      "name": "Avenida de Lasalle, 95",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "22",
+      "shelter": "yes",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529085479,
+    "lat": 40.9568006,
+    "lon": -5.6834491,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529510471,
+    "lat": 40.9495594,
+    "lon": -5.6682204,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Carlos I, frente 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "145",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529510472,
+    "lat": 40.9513326,
+    "lon": -5.6656203,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan de Austria, frente 62",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "81",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529510473,
+    "lat": 40.9527454,
+    "lon": -5.6679433,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan de Austria, frente 8",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "82",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529510494,
+    "lat": 40.9695118,
+    "lon": -5.6590824,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avda, María Auxiliadora, 10",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "91",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893635,
+    "lat": 40.963401,
+    "lon": -5.6512086,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "177030990946619",
+      "name": "Camino Las Aguas, 44",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "211",
+      "shelter": "no",
+      "survey:date": "2016-10-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893636,
+    "lat": 40.9636148,
+    "lon": -5.6514251,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "236668234920710",
+      "name": "Camino Las Aguas, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "265",
+      "shelter": "yes",
+      "survey:date": "2016-10-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893639,
+    "lat": 40.9625801,
+    "lon": -5.6491155,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Camino Las Aguas, 75",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "229",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893660,
+    "lat": 40.9683191,
+    "lon": -5.6471899,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza Alto del Rollo, 7",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "173",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893746,
+    "lat": 40.9697408,
+    "lon": -5.645365,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri, frente 4",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "119",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 533893747,
+    "lat": 40.9696669,
+    "lon": -5.6450502,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "811680106449845",
+      "name": "Calle Jesús Arambarri, 4",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "109",
+      "shelter": "no",
+      "survey:date": "2019-04-26",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 537114837,
+    "lat": 40.9748716,
+    "lon": -5.6507397,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "timetable",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cedros, 43",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "69",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 539255047,
+    "lat": 40.9746707,
+    "lon": -5.6473539,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cipreses, 13",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "267",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 539255049,
+    "lat": 40.9740289,
+    "lon": -5.647214,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cipreses, 84",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "269",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749309,
+    "lat": 40.9786691,
+    "lon": -5.6636203,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Glorieta Ruta de la Plata, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "242",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749313,
+    "lat": 40.9787866,
+    "lon": -5.6675749,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle La Bañeza, frente 36",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "241",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749314,
+    "lat": 40.9789998,
+    "lon": -5.667581,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle La Bañeza, 36",
+      "operator": "Salamanca de Transportes, S.A.",
+      "public_transport": "platform",
+      "ref": "247",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749315,
+    "lat": 40.979211,
+    "lon": -5.6669573,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "204",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749316,
+    "lat": 40.9807313,
+    "lon": -5.6672431,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 33",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "188",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 540749317,
+    "lat": 40.9822464,
+    "lon": -5.66734,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 45",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "187",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566643855,
+    "lat": 40.9714076,
+    "lon": -5.6742322,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644572,
+    "lat": 40.9647116,
+    "lon": -5.6634745,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644579,
+    "lat": 40.9676396,
+    "lon": -5.6583179,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "4429435353767237",
+      "name": "Paseo de Canalejas, 12",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "103",
+      "shelter": "no",
+      "survey:date": "2019-02-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644588,
+    "lat": 40.9695298,
+    "lon": -5.6558475,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Estación, 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "2",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644628,
+    "lat": 40.9740066,
+    "lon": -5.6540124,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Alfonso IX de León, frente 34",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "175",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644649,
+    "lat": 40.970387,
+    "lon": -5.6431225,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri, frente 23",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "110",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566644653,
+    "lat": 40.9705675,
+    "lon": -5.6431579,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri, 23",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "118",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 568214083,
+    "lat": 40.9523136,
+    "lon": -5.6607668,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 568214085,
+    "lat": 40.9518522,
+    "lon": -5.6524488,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112141,
+    "lat": 40.9630194,
+    "lon": -5.690085,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112148,
+    "lat": 40.9646091,
+    "lon": -5.6872936,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112149,
+    "lat": 40.9647242,
+    "lon": -5.687329,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "3886724054757386",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2019-03-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112156,
+    "lat": 40.966532,
+    "lon": -5.6847936,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-14",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112170,
+    "lat": 40.9666647,
+    "lon": -5.6848558,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112264,
+    "lat": 40.9659792,
+    "lon": -5.6824386,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "789178752007430",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2016-09-30",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571112273,
+    "lat": 40.9659608,
+    "lon": -5.6826857,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "203668684904554",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2019-01-18",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571507481,
+    "lat": 40.9511742,
+    "lon": -5.6885208,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alcalde Navarro González, 5",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "318",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571507492,
+    "lat": 40.9510009,
+    "lon": -5.6879138,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "753319255331686",
+      "name": "Calle Alcalde Cruz Hernández, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "297",
+      "shelter": "no",
+      "survey:date": "2018-05-22",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571507505,
+    "lat": 40.9524167,
+    "lon": -5.6900301,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alcalde Cruz Hernández, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "298",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 571508086,
+    "lat": 40.967538,
+    "lon": -5.6779212,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 577392047,
+    "lat": 40.9377488,
+    "lon": -5.6289127,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 577392049,
+    "lat": 40.9370631,
+    "lon": -5.6252064,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 577392122,
+    "lat": 40.9431945,
+    "lon": -5.6252059,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 577561643,
+    "lat": 40.9734226,
+    "lon": -5.6703965,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-06",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 578577248,
+    "lat": 40.9726821,
+    "lon": -5.6723262,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Peña de Francia, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "256",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 579773787,
+    "lat": 40.9501657,
+    "lon": -5.6720262,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 579773789,
+    "lat": 40.9497153,
+    "lon": -5.6711437,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "516979126343922",
+      "name": "Calle Camino de Miranda, 55",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "199",
+      "shelter": "no",
+      "survey:date": "2018-08-06",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 579774442,
+    "lat": 40.9497608,
+    "lon": -5.6637615,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan de Austria, 108",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "85",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 583420816,
+    "lat": 40.9732415,
+    "lon": -5.6629521,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Doctor Torres Villarroel, 42",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "140",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 583420817,
+    "lat": 40.9731389,
+    "lon": -5.6631488,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Doctor Torres Villarroel, 37",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "132",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 583420818,
+    "lat": 40.9749272,
+    "lon": -5.6626827,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Doctor Torres Villarroel, 72",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "141",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 583440950,
+    "lat": 40.9337287,
+    "lon": -5.6504468,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 583440953,
+    "lat": 40.9456853,
+    "lon": -5.639859,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 586238608,
+    "lat": 40.9694735,
+    "lon": -5.6385069,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Carretera de Aldealengua, 43",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "58",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 592204327,
+    "lat": 40.9686622,
+    "lon": -5.6760642,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-14",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 600525235,
+    "lat": 40.9705966,
+    "lon": -5.6543666,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "158",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 600525236,
+    "lat": 40.9704125,
+    "lon": -5.6544027,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 11",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "153",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 604055288,
+    "lat": 40.9514654,
+    "lon": -5.6474818,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 604055479,
+    "lat": 40.9510614,
+    "lon": -5.6427825,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 607127762,
+    "lat": 40.9594959,
+    "lon": -5.6708711,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "476434880335025",
+      "name": "Calle de San Gregorio, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "101",
+      "shelter": "no",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 607127925,
+    "lat": 40.9599108,
+    "lon": -5.6720037,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle San Gregorio, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "184",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613521982,
+    "lat": 40.9606438,
+    "lon": -5.6492185,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Arias Pinel, 31",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "228",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613521996,
+    "lat": 40.9618273,
+    "lon": -5.6481031,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Arias Pinel, frente 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "186",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613522015,
+    "lat": 40.966008,
+    "lon": -5.6493691,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1357563614623162",
+      "name": "Calle Lugo, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "172",
+      "shelter": "no",
+      "survey:date": "2019-01-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618208426,
+    "lat": 40.9346494,
+    "lon": -5.6846953,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618208789,
+    "lat": 40.9431258,
+    "lon": -5.6714123,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle de la Comisión Europea, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "196",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618209388,
+    "lat": 40.9456571,
+    "lon": -5.6718073,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo Cuatro Calzadas, frente 78",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "304",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618209819,
+    "lat": 40.9469769,
+    "lon": -5.6721868,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1155284674969801",
+      "name": "Paseo Cuatro Calzadas, 56",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "194",
+      "shelter": "no",
+      "survey:date": "2018-08-06",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618210087,
+    "lat": 40.9479513,
+    "lon": -5.671443,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Castroverde, frente 14",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "198",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 618210093,
+    "lat": 40.9481443,
+    "lon": -5.6714111,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Castroverde, 14",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "193",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 620774883,
+    "lat": 40.9624498,
+    "lon": -5.6621022,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2843733972547330",
+      "name": "Calle Gran Vía,75",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "27",
+      "shelter": "no",
+      "survey:date": "2018-08-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 620774886,
+    "lat": 40.9666489,
+    "lon": -5.6595232,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "3910117435740713",
+      "name": "Calle Gran Vía,25 (Correos)",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "28",
+      "shelter": "no",
+      "survey:date": "2019-04-06",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 624060914,
+    "lat": 40.9333744,
+    "lon": -5.6223206,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 624061187,
+    "lat": 40.9382196,
+    "lon": -5.6218177,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 625939599,
+    "lat": 40.9519775,
+    "lon": -5.6710358,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2014120705392497",
+      "name": "Calle Camino de Miranda, 3",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "200",
+      "shelter": "no",
+      "survey:date": "2018-08-27",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 651500660,
+    "lat": 40.9500191,
+    "lon": -5.6278616,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 651500752,
+    "lat": 40.9501604,
+    "lon": -5.6330079,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 651500756,
+    "lat": 40.9502351,
+    "lon": -5.6283208,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 651816896,
+    "lat": 40.9500547,
+    "lon": -5.6225979,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 651816902,
+    "lat": 40.9505444,
+    "lon": -5.639337,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 724184338,
+    "lat": 40.9495205,
+    "lon": -5.6872808,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "800239790921204",
+      "name": "Calle Sequeros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "300",
+      "shelter": "no",
+      "survey:date": "2018-05-22",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 741490047,
+    "lat": 40.9550843,
+    "lon": -5.6768436,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "4130436437035614",
+      "name": "Avenida de Lasalle, 4",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "8",
+      "shelter": "yes",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845522,
+    "lat": 40.9551521,
+    "lon": -5.7002199,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1414277975587781",
+      "name": "Avenida Juan Pablo II, 71",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "18",
+      "shelter": "yes",
+      "survey:date": "2019-02-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845553,
+    "lat": 40.9706047,
+    "lon": -5.6527253,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Estación, 61",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "272",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845571,
+    "lat": 40.9547671,
+    "lon": -5.7065697,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle de Coria (Junto Iglesia)",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "16",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845598,
+    "lat": 40.9547956,
+    "lon": -5.6896134,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2885384361716012",
+      "name": "Avenida de Lasalle, 179",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "20",
+      "shelter": "yes",
+      "survey:date": "2019-02-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845619,
+    "lat": 40.9549845,
+    "lon": -5.689756,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "199179768709607",
+      "name": "Avenida de Lasalle, 152",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "12",
+      "shelter": "yes",
+      "survey:date": "2018-08-08",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845651,
+    "lat": 40.9558977,
+    "lon": -5.6721889,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "149990517018156",
+      "name": "Carretera de La Fregeneda, 8",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "7",
+      "shelter": "yes",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845659,
+    "lat": 40.9557706,
+    "lon": -5.6721115,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1402187906811453",
+      "name": "Carretera de La Fregeneda, 15",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "25",
+      "shelter": "yes",
+      "survey:date": "2019-05-30",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845682,
+    "lat": 40.955067,
+    "lon": -5.6810623,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "371233604222549",
+      "name": "Avenida de Lasalle, 58",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "9",
+      "shelter": "yes",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845701,
+    "lat": 40.9552445,
+    "lon": -5.7029691,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1771699559658523",
+      "name": "Avenida Juan Pablo II, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "17",
+      "shelter": "yes",
+      "survey:date": "2019-02-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845720,
+    "lat": 40.9713169,
+    "lon": -5.6509672,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "790879921860551",
+      "name": "Paseo de la Estación, 106",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "31",
+      "shelter": "no",
+      "survey:date": "2019-04-03",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845749,
+    "lat": 40.9786467,
+    "lon": -5.6507022,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cipreses (Frente Multiusos)",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "268",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845756,
+    "lat": 40.9549284,
+    "lon": -5.6765021,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "758947964759903",
+      "name": "Avenida de Lasalle, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "24",
+      "shelter": "yes",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845768,
+    "lat": 40.9549446,
+    "lon": -5.6943921,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "139565664822333",
+      "name": "Avenida Juan Pablo II, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "13",
+      "shelter": "yes",
+      "survey:date": "2018-08-06",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845797,
+    "lat": 40.9548062,
+    "lon": -5.6867724,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2830838210563082",
+      "name": "Avenida de Lasalle, 143",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "21",
+      "shelter": "yes",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845838,
+    "lat": 40.9705376,
+    "lon": -5.6524912,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2960005407654695",
+      "name": "Paseo de la Estación, 78-80",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "30",
+      "shelter": "no",
+      "survey:date": "2018-08-02",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845854,
+    "lat": 40.9713149,
+    "lon": -5.6513407,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "387867105756324",
+      "name": "Paseo de la Estación, 85",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "271",
+      "shelter": "yes",
+      "survey:date": "2019-06-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845860,
+    "lat": 40.9690972,
+    "lon": -5.656514,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Estación, 6",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "29",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845869,
+    "lat": 40.9547716,
+    "lon": -5.6943231,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "3709835302477521",
+      "name": "Plaza Tejares, 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "19",
+      "shelter": "yes",
+      "survey:date": "2019-02-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845906,
+    "lat": 40.9549206,
+    "lon": -5.6802398,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1003907370014475",
+      "name": "Avenida de Lasalle, 47",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "23",
+      "shelter": "yes",
+      "survey:date": "2019-04-12",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845967,
+    "lat": 40.9553651,
+    "lon": -5.7030702,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan Pablo II, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845981,
+    "lat": 40.9648198,
+    "lon": -5.6606817,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Gran Vía,51",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "301",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 800845996,
+    "lat": 40.9552239,
+    "lon": -5.6981715,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan Pablo II, 46",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "14",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 841642975,
+    "lat": 40.9722944,
+    "lon": -5.6618634,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 112",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "160",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 841643174,
+    "lat": 40.9714944,
+    "lon": -5.6587052,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 60",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "159",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 906844789,
+    "lat": 40.9718352,
+    "lon": -5.6668684,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-01",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Italia, 46",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "64",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 908708138,
+    "lat": 40.9956027,
+    "lon": -5.6931977,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 914794838,
+    "lat": 40.9648272,
+    "lon": -5.6608811,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "151321020215602",
+      "name": "C/ Gran Vía, 38",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "222",
+      "shelter": "no",
+      "survey:date": "2017-06-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 938872561,
+    "lat": 40.9760649,
+    "lon": -5.6516558,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "realtime",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cedros, 25",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "70",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 939696723,
+    "lat": 40.9770618,
+    "lon": -5.6536428,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cedros, 6",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "95",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 939697460,
+    "lat": 40.9759252,
+    "lon": -5.6517327,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de los Cedros, 18",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "96",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 946376974,
+    "lat": 40.9807218,
+    "lon": -5.667057,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "205",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 946377022,
+    "lat": 40.9762137,
+    "lon": -5.6670073,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Emigdio de la Riva, 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "190",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 946377088,
+    "lat": 40.979155,
+    "lon": -5.6671604,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 15",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "189",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 946377173,
+    "lat": 40.9762444,
+    "lon": -5.6668395,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Emigdio de la Riva, frente 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "203",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 968638323,
+    "lat": 40.9529187,
+    "lon": -5.6622538,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 979960997,
+    "lat": 40.9474402,
+    "lon": -5.6561112,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 996150400,
+    "lat": 40.9708771,
+    "lon": -5.6440835,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jamaica, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "215",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 996150430,
+    "lat": 40.9737472,
+    "lon": -5.6538957,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Alfonso IX de León, 39-41",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "169",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 996150604,
+    "lat": 40.9731944,
+    "lon": -5.6503342,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2650283031928697",
+      "name": "Paseo Los Madroños, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "1",
+      "shelter": "yes",
+      "survey:date": "2019-06-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 996150650,
+    "lat": 40.9728474,
+    "lon": -5.6506823,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 996150766,
+    "lat": 40.9667776,
+    "lon": -5.6483745,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Ponferrada, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "306",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1029777439,
+    "lat": 40.9582533,
+    "lon": -5.6837826,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1029777450,
+    "lat": 40.957191,
+    "lon": -5.6856375,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1029777452,
+    "lat": 40.9584742,
+    "lon": -5.6837788,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1029777453,
+    "lat": 40.9574157,
+    "lon": -5.6789149,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Padre Ignacio Ellacuría, 45",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "227",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1029777456,
+    "lat": 40.9576277,
+    "lon": -5.6789909,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Padre Ignacio Ellacuría, frente 45",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "225",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1248632303,
+    "lat": 40.9819561,
+    "lon": -5.6606181,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Conde de Orgaz, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "129",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1295470879,
+    "lat": 40.9514764,
+    "lon": -5.6931879,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alcalde Fernández de Troconiz, 26",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "299",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1305799301,
+    "lat": 40.9713028,
+    "lon": -5.6411495,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri, 45",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "117",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1305799371,
+    "lat": 40.9643162,
+    "lon": -5.6529903,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Camino Las Aguas, frente 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "183",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1305799408,
+    "lat": 40.9689853,
+    "lon": -5.6425293,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Colombia, 42",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "55",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1363428194,
+    "lat": 40.9674494,
+    "lon": -5.6791331,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-14",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1363428205,
+    "lat": 40.9678612,
+    "lon": -5.679218,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-14",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1433702793,
+    "lat": 40.9690894,
+    "lon": -5.6424852,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Colombia, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "59",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1511556386,
+    "lat": 40.9500049,
+    "lon": -5.62585,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1511556387,
+    "lat": 40.9498976,
+    "lon": -5.6224543,
+    "tags": {
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1511556389,
+    "lat": 40.9500128,
+    "lon": -5.6330548,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "206843850999407",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-09-20",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1511556391,
+    "lat": 40.9501852,
+    "lon": -5.6262094,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1462757510723249",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "survey:date": "2018-08-23",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1511574727,
+    "lat": 40.9505503,
+    "lon": -5.6372739,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1597709369,
+    "lat": 40.9713808,
+    "lon": -5.6590164,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 65",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "152",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1597709410,
+    "lat": 40.972106,
+    "lon": -5.6620117,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Portugal, 105",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "151",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1657908378,
+    "lat": 40.9646085,
+    "lon": -5.6611879,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Plaza San Julián, 6",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "266",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091530,
+    "lat": 40.9692886,
+    "lon": -5.6593792,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "C/ María Auxiliadora, 1-11",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "75",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091531,
+    "lat": 40.9723969,
+    "lon": -5.6573677,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avda, María Auxiliadora, 48",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "92",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091532,
+    "lat": 40.9725356,
+    "lon": -5.657477,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avda, María Auxiliadora, 61",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "74",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091533,
+    "lat": 40.9738077,
+    "lon": -5.6565516,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "371350037542064",
+      "name": "Avenida de María Auxiliadora, 70",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "93",
+      "shelter": "no",
+      "survey:date": "2017-01-21",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091534,
+    "lat": 40.9757853,
+    "lon": -5.6553376,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "282466693535006",
+      "name": "Avenida de Federico Anaya, 19",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "72",
+      "shelter": "yes",
+      "survey:date": "2019-01-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2132091535,
+    "lat": 40.9757652,
+    "lon": -5.6550877,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Federico Anaya, 24",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "94",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2177796817,
+    "lat": 40.9802149,
+    "lon": -5.6761231,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "198285478768603",
+      "name": "Carretera Ledesma, 172",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "291",
+      "shelter": "no",
+      "survey:date": "2016-04-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2177796821,
+    "lat": 40.9802229,
+    "lon": -5.6763343,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "578825513533053",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2019-06-07",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573408,
+    "lat": 40.9667592,
+    "lon": -5.650564,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Rollo, s/n Parque Picasso",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "122",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573411,
+    "lat": 40.9683257,
+    "lon": -5.6478448,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Rollo, 99",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "120",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573418,
+    "lat": 40.9725922,
+    "lon": -5.637456,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "546381333012008",
+      "name": "Calle Jesús Arambarri, 95",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "115",
+      "shelter": "no",
+      "survey:date": "2016-11-10",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573421,
+    "lat": 40.9731521,
+    "lon": -5.6359956,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri,109",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "56",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573426,
+    "lat": 40.9734842,
+    "lon": -5.6321083,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Los Toreses, 17",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "309",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2201573429,
+    "lat": 40.9754673,
+    "lon": -5.6813262,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Luis Sala Balust, 34",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "295",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2203126641,
+    "lat": 40.9692474,
+    "lon": -5.6692958,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Villamayor, 31",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "258",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2203126651,
+    "lat": 40.973288,
+    "lon": -5.671094,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-07",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle de Valverdón, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "47",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2203126657,
+    "lat": 40.9747328,
+    "lon": -5.6726745,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-09-17",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Carretera Ledesma, 52",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "66",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2203126659,
+    "lat": 40.9758775,
+    "lon": -5.6744444,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "175257294363730",
+      "name": "Carretera Ledesma, 84",
+      "operator": "Salamanca de Transportes, S.A.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "67",
+      "shelter": "no",
+      "survey:date": "2019-01-07",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644963,
+    "lat": 40.9447337,
+    "lon": -5.6718443,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "318057389710960",
+      "name": "Paseo Cuatro Calzadas, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "195",
+      "shelter": "no",
+      "survey:date": "2018-08-06",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644971,
+    "lat": 40.9481219,
+    "lon": -5.6615542,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "291352545806128",
+      "name": "Calle Hilario Goyenechea, 20",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "86",
+      "shelter": "yes",
+      "survey:date": "2019-03-21",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644973,
+    "lat": 40.9482746,
+    "lon": -5.6614456,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "886815425215405",
+      "name": "Calle Hilario Goyenechea, 29",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "79",
+      "shelter": "yes",
+      "survey:date": "2018-08-09",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644976,
+    "lat": 40.9496026,
+    "lon": -5.6639213,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Carlos I, frente 105",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "146",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644981,
+    "lat": 40.9500245,
+    "lon": -5.6638696,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "825251201441606",
+      "name": "Avenida Juan de Austria, frente 108",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "80",
+      "shelter": "no",
+      "survey:date": "2018-08-09",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644988,
+    "lat": 40.9514724,
+    "lon": -5.666074,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Juan de Austria, 50",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "84",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206644993,
+    "lat": 40.9558294,
+    "lon": -5.6710406,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Progreso, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "143",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206645008,
+    "lat": 40.9704357,
+    "lon": -5.6634379,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Doctor Torres Villarroel, 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "139",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206645037,
+    "lat": 40.9743478,
+    "lon": -5.6670275,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Emigdio de la Riva, 3",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "191",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206645040,
+    "lat": 40.9746186,
+    "lon": -5.6668787,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Emigdio de la Riva, 6",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "202",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206645094,
+    "lat": 40.9845575,
+    "lon": -5.6672346,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "317",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799881,
+    "lat": 40.9495379,
+    "lon": -5.6809528,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799888,
+    "lat": 40.950956,
+    "lon": -5.6807833,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2779753369002609",
+      "name": "Calle Almeida, frente 15",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "218",
+      "shelter": "yes",
+      "survey:date": "2018-08-23",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799890,
+    "lat": 40.9528126,
+    "lon": -5.6794457,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Guarda, frente 42",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "219",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799898,
+    "lat": 40.9529849,
+    "lon": -5.67989,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "497939404733067",
+      "name": "Calle Guarda, 42",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "234",
+      "shelter": "yes",
+      "survey:date": "2016-10-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799941,
+    "lat": 40.9686615,
+    "lon": -5.6478976,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Comuneros, 127",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "61",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799949,
+    "lat": 40.9686931,
+    "lon": -5.651875,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Comuneros, 77",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "62",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799951,
+    "lat": 40.9687365,
+    "lon": -5.6449931,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Colombia, 26",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "54",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799953,
+    "lat": 40.968856,
+    "lon": -5.6450462,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "310570310432283",
+      "name": "Calle Colombia, 19",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "60",
+      "shelter": "yes",
+      "survey:date": "2019-03-16",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799960,
+    "lat": 40.9709989,
+    "lon": -5.635566,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Santiago Madrigal,s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "310",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2206799966,
+    "lat": 40.9713329,
+    "lon": -5.6352497,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Santiago Madrigal,s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "311",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2208134832,
+    "lat": 40.9656302,
+    "lon": -5.6601736,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2208134838,
+    "lat": 40.9685502,
+    "lon": -5.6546648,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Comuneros, frente 35",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "51",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300853,
+    "lat": 40.9348226,
+    "lon": -5.6658051,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Lagunas de Villafáfila, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "303",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300855,
+    "lat": 40.9349132,
+    "lon": -5.6657957,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "317655713258811",
+      "name": "Calle Lagunas de Villafáfila, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "302",
+      "shelter": "no",
+      "survey:date": "2018-08-13",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300856,
+    "lat": 40.9372052,
+    "lon": -5.666773,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1181881935576231",
+      "name": "Calle Tierra de Campos, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "288",
+      "shelter": "no",
+      "survey:date": "2018-08-24",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300857,
+    "lat": 40.937247,
+    "lon": -5.6634942,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "367831257997068",
+      "name": "Calle Pinar de Valsaín, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "280",
+      "shelter": "no",
+      "survey:date": "2018-08-13",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300859,
+    "lat": 40.9373628,
+    "lon": -5.6666815,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Tierra de Campos, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "281",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300860,
+    "lat": 40.9386615,
+    "lon": -5.6664512,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Hoyamoros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "282",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300862,
+    "lat": 40.9387548,
+    "lon": -5.6666823,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "307841754160659",
+      "name": "Calle Hoyamoros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "287",
+      "shelter": "no",
+      "survey:date": "2018-08-02",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300863,
+    "lat": 40.9389168,
+    "lon": -5.6634643,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Calle Hoyamoros, frente 55",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "283",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300865,
+    "lat": 40.9390489,
+    "lon": -5.6634943,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Calle Hoyamoros, 55",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "286",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300866,
+    "lat": 40.9408408,
+    "lon": -5.6552964,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300869,
+    "lat": 40.9408902,
+    "lon": -5.6550409,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300871,
+    "lat": 40.9443731,
+    "lon": -5.6559486,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300872,
+    "lat": 40.9445218,
+    "lon": -5.6590853,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "1432681970402346",
+      "name": "Carreteta Carbajosa, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "285",
+      "shelter": "no",
+      "survey:date": "2019-05-30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300874,
+    "lat": 40.9445994,
+    "lon": -5.6555954,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "4136017593087403",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-08-03"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300876,
+    "lat": 40.9448471,
+    "lon": -5.6592274,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "523679441958413",
+      "name": "Carreteta Carbajosa, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "284",
+      "shelter": "no",
+      "survey:date": "2018-08-02"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300878,
+    "lat": 40.9473542,
+    "lon": -5.6563587,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "489092392204961",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-08-02"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300882,
+    "lat": 40.9479538,
+    "lon": -5.6828723,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300885,
+    "lat": 40.9500914,
+    "lon": -5.6808199,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle La Beira, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "233",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300887,
+    "lat": 40.9512231,
+    "lon": -5.6809616,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "310340080485859",
+      "name": "Calle Río Mondego, frente 61",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "231",
+      "shelter": "no",
+      "survey:date": "2016-10-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300889,
+    "lat": 40.9564959,
+    "lon": -5.6611762,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "304849507750797",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "survey:date": "2019-04-06",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300891,
+    "lat": 40.9567775,
+    "lon": -5.6760243,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Puente Sánchez Fabrés, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "216",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300892,
+    "lat": 40.9568332,
+    "lon": -5.6762758,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Puente Sánchez Fabrés, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "49",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300894,
+    "lat": 40.957534,
+    "lon": -5.6611028,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "812716876289704",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2016-08-07",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300897,
+    "lat": 40.9680692,
+    "lon": -5.6683053,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:shelter": "2020-10-01",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Villamayor, 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "48",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211300899,
+    "lat": 40.9704542,
+    "lon": -5.6777264,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Camino Cementerio",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "138",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800876,
+    "lat": 40.9684961,
+    "lon": -5.6479653,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Comuneros, 68",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "53",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800877,
+    "lat": 40.9685461,
+    "lon": -5.6518892,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida Comuneros, 20-26",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "52",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800879,
+    "lat": 40.9706186,
+    "lon": -5.6436817,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "2979120405705961",
+      "name": "Calle Jamaica, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "174",
+      "shelter": "no",
+      "survey:date": "2017-02-01",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800880,
+    "lat": 40.9707628,
+    "lon": -5.6379904,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Santiago Madrigal,s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "170",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800884,
+    "lat": 40.970948,
+    "lon": -5.6379665,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Santiago Madrigal,s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "171",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800887,
+    "lat": 40.9723185,
+    "lon": -5.639174,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "927096588124283",
+      "name": "Calle Fuenteguinaldo, 2",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "112",
+      "shelter": "no",
+      "survey:date": "2019-04-01",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2235800889,
+    "lat": 40.9736845,
+    "lon": -5.6401705,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Fuenteguinaldo, 28",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "113",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2239712365,
+    "lat": 40.9730885,
+    "lon": -5.6808816,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1074754689716658",
+      "name": "Avenida Obispo Sancho de Castilla, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "57",
+      "shelter": "no",
+      "survey:date": "2016-10-10",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2247262886,
+    "lat": 40.9778248,
+    "lon": -5.6595651,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de San Agustín, 44",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "276",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2247262962,
+    "lat": 40.9797052,
+    "lon": -5.6602776,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Salamanca, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "142",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2247262975,
+    "lat": 40.9797868,
+    "lon": -5.6582375,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Glorieta Tratado de Tordesillas, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "308",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2247262986,
+    "lat": 40.9888654,
+    "lon": -5.6451926,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588570,
+    "lat": 40.9602006,
+    "lon": -5.6595167,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588572,
+    "lat": 40.9609199,
+    "lon": -5.6513352,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alonso del Castillo, s/n",
+      "operator": "Salamanca de transportes SA",
+      "passenger_information_display": "no",
+      "public_transport": "platform",
+      "ref": "230",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588576,
+    "lat": 40.9614131,
+    "lon": -5.6592949,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588577,
+    "lat": 40.9616716,
+    "lon": -5.6589343,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "132285282172456",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588580,
+    "lat": 40.9624895,
+    "lon": -5.6494794,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:tactile_paving": "2020-10-12",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alonso del Castillo, frente 1",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "213",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588584,
+    "lat": 40.9641485,
+    "lon": -5.6484623,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Antonio Montesinos, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "305",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588585,
+    "lat": 40.9642478,
+    "lon": -5.6583667,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:bench": "2021-06-15",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "468996064185684",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-09-26",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588586,
+    "lat": 40.9641554,
+    "lon": -5.6581652,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1020907768443503",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2019-03-04",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588590,
+    "lat": 40.9642299,
+    "lon": -5.6530318,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Camino Las Aguas, 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "185",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588592,
+    "lat": 40.9642561,
+    "lon": -5.6470908,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Luis de Góngora, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "164",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588593,
+    "lat": 40.9649589,
+    "lon": -5.6534082,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Rollo, 2",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "105",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588599,
+    "lat": 40.9667344,
+    "lon": -5.6503579,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Rollo, s/n Frente Parque Picasso",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "106",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588600,
+    "lat": 40.9680982,
+    "lon": -5.6508366,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Pontevedra, frente 22",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "243",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588602,
+    "lat": 40.968202,
+    "lon": -5.6507184,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Pontevedra, 22",
+      "operator": "Salamanca de Transportes, S.A.",
+      "public_transport": "platform",
+      "ref": "246",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2268588603,
+    "lat": 40.9682442,
+    "lon": -5.6477444,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo del Rollo, 96",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "108",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2372258860,
+    "lat": 40.9514399,
+    "lon": -5.6526158,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2950450301,
+    "lat": 40.9626144,
+    "lon": -5.6495237,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:tactile_paving": "2020-10-12",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2950493836,
+    "lat": 40.9711736,
+    "lon": -5.6409541,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle de Jesús Arambarri, 64",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "111",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2950493838,
+    "lat": 40.9719668,
+    "lon": -5.6397342,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Jesús Arambarri, 73",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "116",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2950493841,
+    "lat": 40.9744172,
+    "lon": -5.6382963,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Juan Manso, Frente 38",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "114",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3008846589,
+    "lat": 40.971552,
+    "lon": -5.6707542,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214062,
+    "lat": 40.931288,
+    "lon": -5.6292016,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "139145294850073",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2016-08-31"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214063,
+    "lat": 40.9314238,
+    "lon": -5.6290028,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214064,
+    "lat": 40.9325503,
+    "lon": -5.6492716,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "219032946654901",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-11-09"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214065,
+    "lat": 40.9325934,
+    "lon": -5.6494112,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214067,
+    "lat": 40.9342198,
+    "lon": -5.6465922,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "1880198838812842",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-05-19"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214068,
+    "lat": 40.9343492,
+    "lon": -5.6464484,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "900120187435905",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-05-23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214069,
+    "lat": 40.9348748,
+    "lon": -5.6314454,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "727729191237126",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-05-23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214070,
+    "lat": 40.935017,
+    "lon": -5.6314496,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214071,
+    "lat": 40.9371224,
+    "lon": -5.6461582,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "465838527846070",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-08-13"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214072,
+    "lat": 40.9372139,
+    "lon": -5.6462494,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214073,
+    "lat": 40.9376132,
+    "lon": -5.6371768,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "288792516218258",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-05-23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214074,
+    "lat": 40.9377364,
+    "lon": -5.6371999,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214075,
+    "lat": 40.9387562,
+    "lon": -5.639926,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "329790522088586",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-05-23"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214076,
+    "lat": 40.9389358,
+    "lon": -5.640092,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214077,
+    "lat": 40.9401717,
+    "lon": -5.6447178,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3032214078,
+    "lat": 40.9403005,
+    "lon": -5.6446341,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3033784832,
+    "lat": 40.9574521,
+    "lon": -5.6803514,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Francisco Maldonado, frente 17",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "209",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3071612802,
+    "lat": 40.9691992,
+    "lon": -5.6752086,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle La Alberca, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "325",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3178766918,
+    "lat": 40.976803,
+    "lon": -5.6733251,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "check_date:tactile_paving": "2020-09-17",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Los Marineros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "237",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3178766919,
+    "lat": 40.9782613,
+    "lon": -5.6717012,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Don Quijote, 78",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "238",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3180505863,
+    "lat": 40.9802014,
+    "lon": -5.671429,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle del Bachiller Sansón Carrasco, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "249",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3180505909,
+    "lat": 40.9804111,
+    "lon": -5.6711912,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle del Bachiller Sansón Carrasco, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "239",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3192990675,
+    "lat": 40.9809236,
+    "lon": -5.6686583,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Astorga, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "240",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3192990677,
+    "lat": 40.9810823,
+    "lon": -5.6685698,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Astorga, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "248",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3195408554,
+    "lat": 40.9827069,
+    "lon": -5.6671347,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle los Valles Mineros, 32",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "221",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3326892300,
+    "lat": 40.9500884,
+    "lon": -5.6679697,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3345647460,
+    "lat": 40.9522979,
+    "lon": -5.6712747,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3359150977,
+    "lat": 40.9514711,
+    "lon": -5.6726057,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3379330130,
+    "lat": 40.952846,
+    "lon": -5.6816877,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "1108377766335576",
+      "name": "Calle Mayor de Chamberí, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "223",
+      "shelter": "yes",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3384048998,
+    "lat": 40.9517962,
+    "lon": -5.6833504,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "478882050086728",
+      "name": "Calle Mayor de Chamberí, 67",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "137",
+      "shelter": "no",
+      "survey:date": "2019-03-18",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3390684558,
+    "lat": 40.950874,
+    "lon": -5.6849264,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "258368512699061",
+      "name": "Calle Mayor de Chamberí, 109",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "136",
+      "shelter": "yes",
+      "survey:date": "2018-08-08",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3405274259,
+    "lat": 40.948084,
+    "lon": -5.6832222,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3424799861,
+    "lat": 40.9636198,
+    "lon": -5.6905437,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3524403780,
+    "lat": 40.9380188,
+    "lon": -5.6289362,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3634601669,
+    "lat": 40.9258264,
+    "lon": -5.6906184,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3664136055,
+    "lat": 40.9936916,
+    "lon": -5.6574278,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3669946119,
+    "lat": 40.9906902,
+    "lon": -5.6428313,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902703,
+    "lat": 40.9511567,
+    "lon": -5.6918001,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Alcalde Navarro González, 85",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "206",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902709,
+    "lat": 40.9555262,
+    "lon": -5.6799495,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "787357601916428",
+      "name": "Calle Mariano Arés y Sanz, 5",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "313",
+      "shelter": "no",
+      "survey:date": "2018-08-08",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902711,
+    "lat": 40.9556283,
+    "lon": -5.6797966,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Mariano Arés y Sanz, frente 9",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "314",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902713,
+    "lat": 40.9696155,
+    "lon": -5.6653942,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902714,
+    "lat": 40.9778941,
+    "lon": -5.6596721,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "492434195278833",
+      "name": "Avenida de San Agustín, 39",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "274",
+      "shelter": "yes",
+      "survey:date": "2017-03-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902716,
+    "lat": 40.9792654,
+    "lon": -5.661045,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "380670119778307",
+      "name": "Avenida de Salamanca, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "273",
+      "shelter": "no",
+      "survey:date": "2016-09-27",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3762902722,
+    "lat": 40.9794832,
+    "lon": -5.6583205,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "918810478900133",
+      "name": "Glorieta Tratado de Tordesillas, s/n",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "307",
+      "shelter": "no",
+      "survey:date": "2018-08-15",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3813852292,
+    "lat": 40.9475712,
+    "lon": -5.6801795,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "485187099199189",
+      "name": "Calle Ramón de Mesonero Romanos, 43",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "220",
+      "shelter": "no",
+      "survey:date": "2018-08-23",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3813852295,
+    "lat": 40.9487636,
+    "lon": -5.6824014,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle La Beira, 50",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "278",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3813852296,
+    "lat": 40.9506179,
+    "lon": -5.6783161,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Emilio Salcedo, 3",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "232",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3883877830,
+    "lat": 40.9573258,
+    "lon": -5.6805143,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Francisco Maldonado, 17",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "214",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3891793697,
+    "lat": 40.9691878,
+    "lon": -5.6603972,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Mirat, 15",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "42",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3892195928,
+    "lat": 40.959515,
+    "lon": -5.6601489,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3899437772,
+    "lat": 40.9780808,
+    "lon": -5.6718386,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "242027934351005",
+      "name": "Calle Don Quijote, frente 72",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "250",
+      "shelter": "no",
+      "survey:date": "2017-01-21",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3941481251,
+    "lat": 40.9571774,
+    "lon": -5.68599,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4000498530,
+    "lat": 40.9937382,
+    "lon": -5.6579833,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4210330387,
+    "lat": 40.9719097,
+    "lon": -5.6233232,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4552272973,
+    "lat": 40.9334548,
+    "lon": -5.6506427,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "457979531957022",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2017-11-09"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4556079402,
+    "lat": 40.9357133,
+    "lon": -5.6480177,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4556079403,
+    "lat": 40.9358512,
+    "lon": -5.6479172,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "453969562368797",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-08-13"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4563542621,
+    "lat": 40.9496066,
+    "lon": -5.6870734,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "mapillary": "196780918945818",
+      "name": "Calle Miguel Ángel, 86",
+      "operator": "Salamanca de transportes SA",
+      "pole": "yes",
+      "public_transport": "platform",
+      "ref": "226",
+      "shelter": "no",
+      "survey:date": "2016-10-19",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4563542622,
+    "lat": 40.9509324,
+    "lon": -5.6850096,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Mayor de Chamberí, 106",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "207",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4563542623,
+    "lat": 40.951855,
+    "lon": -5.6833957,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Mayor de Chamberí, 70",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "135",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4563542624,
+    "lat": 40.9529073,
+    "lon": -5.6817698,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Mayor de Chamberí, 46",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "133",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564129524,
+    "lat": 40.9694953,
+    "lon": -5.6608644,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Avenida de Mirat, 22",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "33",
+      "shelter": "yes",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564169380,
+    "lat": 40.9724807,
+    "lon": -5.6798772,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564169382,
+    "lat": 40.9812847,
+    "lon": -5.6746678,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564169384,
+    "lat": 40.9810764,
+    "lon": -5.6718324,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4564169386,
+    "lat": 40.9778825,
+    "lon": -5.6536238,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4606026118,
+    "lat": 40.9697284,
+    "lon": -5.638066,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle de Ricardo Pérez Fernández, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "312",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4618151692,
+    "lat": 40.9887491,
+    "lon": -5.6459797,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5113237724,
+    "lat": 40.9344557,
+    "lon": -5.6257367,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "1092891764454433",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "survey:date": "2019-03-16"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5113259621,
+    "lat": 40.9433898,
+    "lon": -5.6208014,
+    "tags": {
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5267981012,
+    "lat": 40.9495744,
+    "lon": -5.6872164,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Sequeros, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "296",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5267984230,
+    "lat": 40.9643143,
+    "lon": -5.6478337,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Camino Estrecho de la Aldehuela, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "161",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5267984239,
+    "lat": 40.9652955,
+    "lon": -5.64762,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Ponferrada, 55",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "162",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5275146734,
+    "lat": 40.9956111,
+    "lon": -5.6344069,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5275146736,
+    "lat": 40.990417,
+    "lon": -5.6427432,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "mapillary": "473436150556882",
+      "pole": "yes",
+      "public_transport": "platform",
+      "shelter": "no",
+      "survey:date": "2018-08-10",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295472724,
+    "lat": 40.9300032,
+    "lon": -5.6299862,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "operator": "Autobuses Salmantinos, S.L.",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7523653654,
+    "lat": 40.9725079,
+    "lon": -5.6511667,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Elcano, frente 12",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "134",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7616210147,
+    "lat": 40.9937794,
+    "lon": -5.6660351,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7864578886,
+    "lat": 40.9499724,
+    "lon": -5.661676,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Maestro Jiménez, s/n",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "331",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7864578888,
+    "lat": 40.9500047,
+    "lon": -5.6618322,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Calle Maestro Jiménez, 10",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "332",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8853872035,
+    "lat": 40.962395,
+    "lon": -5.6746892,
+    "tags": {
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de San Vicente, s/n (Río)",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "335",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8853872036,
+    "lat": 40.9623129,
+    "lon": -5.674452,
+    "tags": {
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de San Vicente, s/n (centro)",
+      "operator": "Salamanca de transportes SA",
+      "public_transport": "platform",
+      "ref": "334",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697281,
+    "lat": 40.9621719,
+    "lon": -5.6758474,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "timetable",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Transición Española, s/n (Hospital)",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "336",
+      "shelter": "no",
+      "start_date": "2021-10-13",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697282,
+    "lat": 40.9619143,
+    "lon": -5.6757804,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "timetable",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Transición Española, s/n",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "337",
+      "shelter": "no",
+      "start_date": "2021-10-13",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697284,
+    "lat": 40.9648241,
+    "lon": -5.6796201,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Transición Española, s/n",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "338",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697285,
+    "lat": 40.9647351,
+    "lon": -5.6797649,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Paseo de la Transición Española, s/n",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "339",
+      "shelter": "no",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697288,
+    "lat": 40.9572881,
+    "lon": -5.6816546,
+    "tags": {
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "name": "Calle Francisco Montejo, 12",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "341",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9171697289,
+    "lat": 40.957871,
+    "lon": -5.6818172,
+    "tags": {
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "name": "Calle Francisco Montejo, 25",
+      "operator": "Salamanca de Transportes SA",
+      "public_transport": "platform",
+      "ref": "340",
+      "shelter": "no"
+    }
+  }
+]
